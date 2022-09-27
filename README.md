@@ -1,2 +1,2 @@
-# tugas-praktikumPCS
+# Tugas-praktikumPCS
 Tugas Praktikum Pemrograman Client Sercer
